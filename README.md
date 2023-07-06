@@ -7,7 +7,7 @@ I'm an Undergrad Front End developer/ Software Engineer.
 
 *   🌍  From Basti, Uttar Pradesh
 *   🧠  Learning Data Structures and Algorithms
-*   🖥️  Currently working on my Portfolio will be live soon
+*   🖥️  Do checkout Web <a href="https://sahildev.netlify.app/"> Portfolio </a>
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
 ### Skills
